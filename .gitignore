@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+node_modules/
+output/
+*.mp4
+*.mov
+*.m4a
+.DS_Store
+.venv/
+subtitle-effects/remotion/public/clip.mp4
+subtitle-effects/remotion/public/_thumbs/
+subtitle-effects/remotion/out.mp4
